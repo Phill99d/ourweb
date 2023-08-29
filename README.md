@@ -33,7 +33,7 @@ You can choose daily or weekly notifications:
 * Daily: runs **every day at 00:00 UTC**, see issues labeled with [trending-daily](https://github.com/vitalets/github-trending-repos/labels/trending-daily)
 * Weekly: runs **every friday at 03:00 UTC**, see issues labeled with [trending-weekly](https://github.com/vitalets/github-trending-repos/labels/trending-weekly)
 
-## Examples
+## Examplesa
 Once a day (or a week) you get a notification in GitHub web interface:  
 ![Example of web notification](https://user-images.githubusercontent.com/1473072/32488601-4295b138-c3be-11e7-8eb2-18a624c54ca2.png)
 
