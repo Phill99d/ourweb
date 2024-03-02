@@ -4,7 +4,7 @@
 
 Here you can subscribe to new [GitHub trending repositories](https://github.com/trending) in your favorite programming language.
 # welcomss133
-Updates come as [GitHub notifications] once a day or a week. 
+Updates come as [GitHub notifications] once a day or a last week. 
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC) -->
 - [How it works](#how-it-works)
